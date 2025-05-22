@@ -5,5 +5,5 @@ test('adds 1 + 2 * (5-3) to equal 6' , () => {
 });
 
 test('adds 5 + 7 * (10-5) to equal 60' , () => {
-    expect(add(5,7,10,5)).toBe(60);
+    expect(add(5, 7, 10, 5)).toBe(60);
 });
